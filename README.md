@@ -109,6 +109,3 @@ Source-code licensing and distribution information will be provided when applica
   <strong>Made with passion for the PlayStation Portable homebrew community.</strong>
 </p>
 
-<p align="center">
-  <em>Bringing intergalactic chaos to your pocket — one race at a time.</em>
-</p>
