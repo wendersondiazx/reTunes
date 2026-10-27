@@ -56,8 +56,8 @@ The project is primarily targeting PSP revisions equipped with **64 MB of RAM**:
 | PSP-1000 | 32 MB | Under evaluation |
 | PSP-2000 | 64 MB | Primary target |
 | PSP-3000 | 64 MB | Primary target |
-| PSP Go | 64 MB | Under evaluation |
-| PSP Street | 64 MB | Under evaluation |
+| PSP Go | 64 MB | Primary target |
+| PSP Street | 64 MB | Primary target |
 
 Due to the PSP-1000's limited memory, additional optimizations may be necessary to achieve acceptable performance.
 
